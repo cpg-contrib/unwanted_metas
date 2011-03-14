@@ -1,0 +1,32 @@
+/**************************************************
+  unwanted_metas 2.0 Plugin for Coppermine Photo Gallery
+  *************************************************
+  Copyright (c) 2005-2006 Donovan Bray <donnoman@donovanbray.com>
+  *************************************************
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 2 of the License, or
+  (at your option) any later version.
+  *************************************************
+  Coppermine version: 1.4.9
+  $Source: /cvsroot/cpg-contrib/unwanted_metas/README,v $
+  $Revision: 1.1 $
+  $Author: donnoman $
+  $Date: 2006/12/03 00:24:55 $
+***************************************************/
+
+unwanted_metas 2.0
+
+This plugin prevents images from selected albums from displaying in the meta albums.
+
+The "meta" albums are the dynamically created albums like Random, Last updated, etc.
+
+After installation you can multi select (usually with the control key) all of the albums
+you wish to exclude. Then click "submit".
+
+You can return to the plugin manager page and modify the albums you would like the plugin
+to restrict.
+
+This is a self contained plugin and no longer requires any mod to displayimage.php.
+
+Support is available on the cpg-contrib.com forum http://cpg-contrib.org/board/index.php?board=31.0
